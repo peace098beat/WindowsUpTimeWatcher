@@ -9,7 +9,7 @@ Windowsの次回起動時にアプリが自動起動され、そのときの経過時間を表示する「だけ」
 
 ***demo**
 
-![demo_v1](demo/demoi_v1.png)
+![demo_v1](demo/demo_v1.png)
 
 ## 機能
  - [x] 起動時間の表示
